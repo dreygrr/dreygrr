@@ -6,7 +6,7 @@ Aqui, tenho alguns projetos interessantes que, ao longo da minha jornada acadêm
 
 <html>
   <body>
-    <p style="color: red;">Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!</p>
+    <h1>Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!</h1>
   </body>
 </html>
 
