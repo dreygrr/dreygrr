@@ -1,10 +1,10 @@
-### console.log("Hello!👋") 
+# console.log("Hello!👋") 
 
 ## meu nome é Andrey de Assis
 
 Aqui, tenho alguns projetos interessantes que, ao longo da minha jornada acadêmica e profissional, publico como portfólio ou para exposição de estudos, exemplos entre outros
 
-# ME CONTRATA
+<p style="color: red;">Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!</p>
 
 <!--
 **dreygrr/dreygrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
