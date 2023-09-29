@@ -5,7 +5,9 @@
 Aqui, tenho alguns projetos interessantes que, ao longo da minha jornada acadêmica e profissional, publico como portfólio ou para exposição de estudos, exemplos entre outros
 
 <html>
-<p style="color: red;">Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!</p>
+  <body>
+    <p style="color: red;">Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!</p>
+  </body>
 </html>
 
 <!--
