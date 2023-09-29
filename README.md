@@ -4,7 +4,9 @@
 
 Aqui, tenho alguns projetos interessantes que, ao longo da minha jornada acadêmica e profissional, publico como portfólio ou para exposição de estudos, exemplos entre outros
 
+<html>
 <p style="color: red;">Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!</p>
+</html>
 
 <!--
 **dreygrr/dreygrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
