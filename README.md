@@ -1,21 +1,23 @@
-# console.log("Hello!👋") 
+### <p>console.log("hello! 👋")</p>
+
+# > meu nome é Andrey de Assis
+
+Aqui, tenho alguns projetos interessantes que, ao longo da minha jornada acadêmica e profissional, publico como portfólio ou como exposição de estudos, exemplos, experiências entre outros
+
+Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe! 
 
 <img alt="eita" src="https://drive.google.com/uc?export=view&id=1-6LRMncx3iUayynqmi8zJQ6BKOUX_5xF">
 
-<h1>> meu nome é Andrey de Assis</h1>
+### <img width="14px" alt="eita" src="https://drive.google.com/thumbnail?id=1lmltk2Gw7qlhuceXKomeHoRF9vyUskGU"> Formação:
 
-Aqui, tenho alguns projetos interessantes que, ao longo da minha jornada acadêmica e profissional, publico como portfólio ou para exposição de estudos, exemplos entre outros
+🕑 Tecnologia em Análise e Desenvolvimento de Sistemas — IFSP Campus Hortolândia (2022 – 2025)<br />
+✔ Técnico em Informática integrado ao Ensino Médio — IFSP Campus Hortolândia (2020 – 2022)
 
-Procuro qualquer oportunidade profissional que busque crescimento e potencial em sua equipe!
+### <img width="14px" alt="eita" src="https://drive.google.com/uc?export=view&id=1-AmMqFclrxYV-mTqSUO5RKsyhnIE_GVF"> Conhecimentos:
 
-<img alt="eita" src="https://drive.google.com/uc?export=view&id=1-6LRMncx3iUayynqmi8zJQ6BKOUX_5xF">
+❄ React.js (iniciante) <br/ >
+☕ Java — Maven - Hibernate - Servlet - JSP - JSTL <br/ >
 
-<h3><img width="14px" alt="eita" src="https://drive.google.com/uc?export=view&id=1-AmMqFclrxYV-mTqSUO5RKsyhnIE_GVF"> Formação:</h3>
-
-<ul>
-  <li>Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP (2022 — 2025)</li>
-  <li>Técnico em Informática formado no IFSP (2020 — 2022)</li>
-</ul>
 
 <!--
 **dreygrr/dreygrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
